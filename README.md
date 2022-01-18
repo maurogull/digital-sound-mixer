@@ -46,3 +46,16 @@ Randomly, the GPIO polling awaiting for this FSYNC signal just takes too much ti
 
 An FPGA may be better suited for this purpose.
 
+# Some photos
+
+![Photo of the project](photos/panorama1.jpg)
+
+![Photo of the project](photos/panorama2.jpg)
+
+![Photo of the project](photos/panorama3.jpg)
+
+![Photo of the project](photos/adc and dac.jpg)
+
+![Photo of the project](photos/bit stream.jpg.jpg)
+
+![Photo of the project](photos/noise.jpg)
