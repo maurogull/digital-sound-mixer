@@ -54,8 +54,8 @@ An FPGA may be better suited for this purpose.
 
 ![Photo of the project](photos/panorama3.jpg)
 
-![Photo of the project](photos/adc%20and%20dac.jpg)
+![Photo of the project](photos/noise.jpg)
 
 ![Photo of the project](photos/bit%20stream.jpg)
 
-![Photo of the project](photos/noise.jpg)
+![Photo of the project](photos/adc%20and%20dac.jpg)
