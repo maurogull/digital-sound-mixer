@@ -1,0 +1,9 @@
+arm_64bit=1
+disable_commandline_tags=1
+force_turbo=1
+core_freq=500
+core_freq_min=500
+arm_freq_min=1500
+arm_freq=1500
+kernel_address=0x100
+kernel_old=1
