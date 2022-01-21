@@ -10,6 +10,7 @@ Currently running on RPi 4B (Quad core Cortex-A72, ARM v8, 64-bit SoC @ 1.5GHz) 
 * 74HCT14 Schmitt triggers
 * RS232 module for PC interface
 * OPA2134 op amp (analog input not shown)
+* filter/decoupling capacitors (not shown)
 
 
 ![Protoboard diagram](photos/protoboard.jpg)
