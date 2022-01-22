@@ -20,7 +20,7 @@ Currently running on RPi 4B (Quad core Cortex-A72, ARM v8, 64-bit SoC @ 1.5GHz) 
 
 Currently, the source code provided here implements a sound mixer with these capabilities:
 
-* each cores is running a different task
+* each core is running a different task
 * Cache and MMU enabled
 * 30 mono sound input channels
 * buffer size of 32 samples
@@ -31,7 +31,7 @@ Currently, the source code provided here implements a sound mixer with these cap
 * 1 noise gate per channel
 * one stereo master output
 
-Entry point is in \_start.S, \_start label
+Entry point is in [\_start.S](https://github.com/maurogull/digital-sound-mixer/blob/67699e24932fe8e4c39ba525916914ccb9585611/src/_start.S#L342).
 
 # Build
 
