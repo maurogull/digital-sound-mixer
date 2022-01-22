@@ -67,6 +67,8 @@ An FPGA may be even better suited for this purpose.
 
 ![Photo of the project](photos/noise.jpg)
 
-![Photo of the project](photos/bit%20stream.jpg)
+![Photo of the project](photos/adc_bits.gif)
+
+![Photo of the project](photos/analog_input_output.gif)
 
 ![Photo of the project](photos/adc%20and%20dac.jpg)
