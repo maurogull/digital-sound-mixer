@@ -57,6 +57,9 @@ There is a big chance that multiple protoboards and several "long" cables aren't
 
 An FPGA may be even better suited for this purpose.
 
+UPDATE: RPi Pico (RP2040 based) may be a platform candidate!
+
+
 # Some photos
 
 ![Photo of the project](photos/panorama1.jpg)
